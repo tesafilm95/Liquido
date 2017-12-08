@@ -1,0 +1,11 @@
+C:\Users\Suda\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\x86\Release\WindowsFormsApp1.exe.config
+C:\Users\Suda\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\x86\Release\WindowsFormsApp1.exe
+C:\Users\Suda\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\x86\Release\WindowsFormsApp1.pdb
+C:\Users\Suda\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\x86\Release\WindowsFormsApp1.exe.CodeAnalysisLog.xml
+C:\Users\Suda\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\x86\Release\WindowsFormsApp1.exe.lastcodeanalysissucceeded
+C:\Users\Suda\Documents\WindowsFormsApp1\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form1.resources
+C:\Users\Suda\Documents\WindowsFormsApp1\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Suda\Documents\WindowsFormsApp1\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\Suda\Documents\WindowsFormsApp1\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Suda\Documents\WindowsFormsApp1\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.exe
+C:\Users\Suda\Documents\WindowsFormsApp1\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.pdb
